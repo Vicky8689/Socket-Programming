@@ -1,0 +1,66 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\SocketAss\\MyClient\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{434F9986-8121-43D8-B630-B771CF8671AF}|MyClient\\MyClient.csproj|e:\\socketass\\myclient\\myclient\\encryptdecryptdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{434F9986-8121-43D8-B630-B771CF8671AF}|MyClient\\MyClient.csproj|solutionrelative:myclient\\encryptdecryptdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{434F9986-8121-43D8-B630-B771CF8671AF}|MyClient\\MyClient.csproj|e:\\socketass\\myclient\\myclient\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{434F9986-8121-43D8-B630-B771CF8671AF}|MyClient\\MyClient.csproj|solutionrelative:myclient\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:11:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EncryptDecryptData.cs",
+              "DocumentMoniker": "E:\\SocketAss\\MyClient\\MyClient\\EncryptDecryptData.cs",
+              "RelativeDocumentMoniker": "MyClient\\EncryptDecryptData.cs",
+              "ToolTip": "E:\\SocketAss\\MyClient\\MyClient\\EncryptDecryptData.cs",
+              "RelativeToolTip": "MyClient\\EncryptDecryptData.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T06:59:00.641Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\SocketAss\\MyClient\\MyClient\\Program.cs",
+              "RelativeDocumentMoniker": "MyClient\\Program.cs",
+              "ToolTip": "E:\\SocketAss\\MyClient\\MyClient\\Program.cs",
+              "RelativeToolTip": "MyClient\\Program.cs",
+              "ViewState": "AgIAAAgAAADg/////38nwA4AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T10:54:31.199Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
